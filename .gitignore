@@ -1,2 +1,4 @@
 *.pyc
 _ncaa_courses_cache
+*.csv
+.DS_Store
