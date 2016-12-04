@@ -1,0 +1,5 @@
+BeautifulSoup==3.2.1
+cssselect==1.0.0
+lxml==3.6.4
+requests==2.12.3
+six==1.10.0
